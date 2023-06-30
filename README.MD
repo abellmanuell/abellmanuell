@@ -34,6 +34,9 @@ Every day is a learning day.
   <a href="#" target="_blank">
     <img src="https://img.icons8.com/?size=1x&id=19978&format=png" width="33"/>
   </a>
+<a href="#" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=54087&format=png" width="33"/>
+  </a>
 </div>
 
 ### Languages and Tools:
