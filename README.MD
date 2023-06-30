@@ -2,7 +2,10 @@
 
 ### I'm a growing developer with a primary focus on Javascript, React, and open-source projects. <br />I love being part of communities that inspire and challenge one another.
 
-I'm aspiring to be the best Javascript engineer 🚀.
+Aspiring to become the best Javascript engineer 🚀.
+Every day is a learning day.
+
+https://img.shields.io/badge/Learn-20%-blue https://img.shields.io/badge/Practice-20%-blue
 
 ---
 
@@ -47,3 +50,7 @@ I'm aspiring to be the best Javascript engineer 🚀.
   <img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" width="30" />
   <img src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" width="30" />
 </div>
+
+## Stats
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=abellmanuell&theme=vue)](https://git.io/streak-stats)
