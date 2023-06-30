@@ -19,6 +19,7 @@
 - ⚡ Fun fact: I love photography, soccer, and coding
 - 🎸 Would love: To know how to play keyboard
 
+***
 ### Connect with me:
 
 <div align="center">  
