@@ -11,7 +11,7 @@
 - 🎸 Would love: To know how to play keyboard
 
 ### Connect with me:
-
+<b>J </b>
 <p align="left">  
   <a href="https://twitter.com/abellmanuell" target="blank">
     <img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/>
