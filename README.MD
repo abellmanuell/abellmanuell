@@ -2,8 +2,8 @@
 
 ### I'm a growing developer with a primary focus on Javascript, React, and open-source projects. <br />I love being part of communities that inspire and challenge one another.
 
-Aspiring to become the best Javascript engineer 🚀.<br/>
-Every day is a learning day.
+>Aspiring to become the best Javascript engineer 🚀.<br/>
+>Every day is a learning day.
 
 
 ![Static Badge](https://img.shields.io/badge/learn-20%25-blue)
