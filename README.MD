@@ -13,28 +13,33 @@
 ### Connect with me:
 
 <p align="left">  
-<a href="https://twitter.com/abellmanuell" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="https://linkedin.com/in/abellmanuell" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-<a href="mailto:mannydev02@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+  <a href="https://twitter.com/abellmanuell" target="blank">
+    <img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/>
+  </a>
+  <a href="https://linkedin.com/in/abellmanuell" target="blank">
+    <img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
+  </a>
+  <a href="mailto:mannydev02@gmail.com" target="blank">
+    <img src="https://img.icons8.com/color/35/000000/gmail.png"/>
+  </a>
 </p>
 
 ### Languages and Tools:
 
-<p>
-<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
-<img src="https://img.icons8.com/color/35/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/>
-<img sc="https://icons8.com/icon/54087/nodejs"/>
-<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/35/000000/git.png"/> 
-<img src="https://img.icons8.com/color/35/000000/github.png"/>
-</p>
+<div style="flex justify-content:center">
+  <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
+  <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
+  <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/>
+  <img sc="https://icons8.com/icon/54087/nodejs"/>
+  <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/35/000000/git.png"/> 
+  <img src="https://img.icons8.com/color/35/000000/github.png"/>
+</div>
 
 ### Libraries 
-<p>
-<img src="https://icons8.com/color/35/000000/react"/>
-<img src="https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss"/>
-<img src="https://icons8.com/icon/QBqFNfPPB2Kx/sass"/>
-<img src="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui">
-<img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" width="35" />
-</p
+<div>
+  <img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width="35"/>
+  <img src="https://img.icons8.com/?size=1x&id=CIAZz2CYc6Kc&format=png" width="35"/>
+  <img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" width="35" />
+  <img src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" width="35" />
+</div>
