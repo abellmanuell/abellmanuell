@@ -3,11 +3,11 @@
 ### I'm a growing developer with a primary focus on Javascript, React, and open-source projects. <br />I love being part of communities that inspire and challenge one another.
 
 Aspiring to become the best Javascript engineer 🚀.
-
 Every day is a learning day.
 
 ![Static Badge](https://img.shields.io/badge/learn-20%25-blue)
 ![Static Badge](https://img.shields.io/badge/practice-20%25-green)
+![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fabellmanuell)
 
 ---
 
