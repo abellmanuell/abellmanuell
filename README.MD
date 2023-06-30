@@ -53,11 +53,11 @@
 ### Libraries & Frameworks
 
 <div align="center">
-  <img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width="30"/>
+  <img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width="30" title="React.js"/>
   <img src="https://img.icons8.com/?size=1x&id=CIAZz2CYc6Kc&format=png" width="30"/>
   <img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" width="30" />
   <img src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" width="30" />
-  <img src="https://img.icons8.com/?size=1x&id=SDVmtZ6VBGXt&format=png" width="30" />
+  <img src="https://img.icons8.com/?size=1x&id=SDVmtZ6VBGXt&format=png" width="30" title="Express.js" />
 </div>
 
 ### Stats Analysis 
