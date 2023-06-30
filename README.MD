@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<p align="left">  
+<div align="center">  
   <a href="https://twitter.com/abellmanuell" target="blank">
     <img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/>
   </a>
@@ -22,7 +22,7 @@
   <a href="mailto:mannydev02@gmail.com" target="blank">
     <img src="https://img.icons8.com/color/35/000000/gmail.png"/>
   </a>
-</p>
+</div>
 
 ### Languages and Tools:
 
