@@ -43,7 +43,7 @@ Every day is a learning day.
   <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
   <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/>
   <a href="#" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=54087&format=png" width="33"/>
+    <img src="https://img.icons8.com/?size=1x&id=hsPbhkOH4FMe&format=png" width="33"/>
   </a>
   <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/35/000000/git.png"/> 
