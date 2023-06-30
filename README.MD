@@ -23,25 +23,25 @@
 
 <div align="center">  
   <a href="https://twitter.com/abellmanuell" target="_blank">
-    <img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/>
+    <img src="https://img.icons8.com/color/35/000000/twitter--v2.png" title="Twitter"/>
   </a>
   <a href="https://linkedin.com/in/abellmanuell" target="blank">
-    <img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/color/35/000000/linkedin.png" title="LinkedIn"/>
   </a>
   <a href="mailto:mannydev02@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=1x&id=qyRpAggnV0zH&format=png" width="33"/>
+    <img src="https://img.icons8.com/?size=1x&id=qyRpAggnV0zH&format=png" width="33" title="Gmail"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.icons8.com/?size=1x&id=19978&format=png" width="33"/>
+    <img src="https://img.icons8.com/?size=1x&id=19978&format=png" width="33" title="Slack"/>
   </a>
 </div>
 
 ### Languages and Tools:
 
 <div align="center">
-  <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
-  <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
-  <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/35/000000/html-5--v1.png" title="HTML"/> 
+  <img src="https://img.icons8.com/color/35/000000/css3.png" title="CSS3"/> 
+  <img src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="JavaScript"/>
   <a href="#" target="_blank">
     <img src="https://img.icons8.com/?size=1x&id=hsPbhkOH4FMe&format=png" width="33"/>
   </a>
