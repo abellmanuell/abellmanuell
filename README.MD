@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
----
+--
 ## I'm a growing developer with a primary focus on Javascript, React, and open-source projects. I love being part of communities that inspire and challenge one another.
 
 - 🔭 I’m currently working on ... JavaScript & React, 
@@ -31,7 +31,9 @@
 </p>
 
 ### Libraries 
+<p>
 <img src="https://icons8.com/icon/t5K2CR8feVdX/react"/>
 <img src="https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss"/>
 <img src="https://icons8.com/icon/QBqFNfPPB2Kx/sass"/>
 <img / src="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui">
+</p
