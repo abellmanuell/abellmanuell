@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate with other devs
 - 💬 Ask me about anything in Javascript, and I bet I will answer 😂
 - ⚡ Fun fact: I love photography, soccer, and coding
-- 🎸 Would love: To know how to play keyboard
+- 🎹 Would love: To know how to play keyboard
 
 ***
 ### Connect with me:
