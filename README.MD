@@ -11,7 +11,7 @@
 - 🎸 Would love: To know how to play keyboard
 
 ### Connect with me:
-<b>J </b>
+
 <p align="left">  
   <a href="https://twitter.com/abellmanuell" target="blank">
     <img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/>
@@ -26,7 +26,7 @@
 
 ### Languages and Tools:
 
-<div align="center" style="background: red">
+<div align="center">
   <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
   <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
   <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/>
@@ -37,7 +37,8 @@
 </div>
 
 ### Libraries 
-<div>
+
+<div align="center">
   <img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width="30"/>
   <img src="https://img.icons8.com/?size=1x&id=CIAZz2CYc6Kc&format=png" width="30"/>
   <img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" width="30" />
