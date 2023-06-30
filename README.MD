@@ -5,7 +5,8 @@
 Aspiring to become the best Javascript engineer 🚀.
 Every day is a learning day.
 
-![Static Badge](https://img.shields.io/badge/Learn-20%-blue) ![Static Badge](https://img.shields.io/badge/Practice-20%-blue)
+![Static Badge](https://img.shields.io/badge/learn-20%25-pink)
+![Static Badge](https://img.shields.io/badge/practice-20%25-green)
 
 ---
 
@@ -52,5 +53,4 @@ Every day is a learning day.
 </div>
 
 ## Stats
----
 [![GitHub Streak](https://streak-stats.demolab.com?user=abellmanuell&theme=vue)](https://git.io/streak-stats)
