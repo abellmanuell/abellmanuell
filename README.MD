@@ -36,7 +36,7 @@
   <img src="https://img.icons8.com/color/35/000000/github.png"/>
 </div>
 
-### Libraries 
+### Libraries & Frameworks
 
 <div align="center">
   <img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width="30"/>
