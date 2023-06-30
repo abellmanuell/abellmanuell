@@ -36,5 +36,5 @@
 <img src="https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss"/>
 <img src="https://icons8.com/icon/QBqFNfPPB2Kx/sass"/>
 <img src="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui">
-<img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" />
+<img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" width="35" />
 </p
