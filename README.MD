@@ -55,6 +55,4 @@ Every day is a learning day.
 </div>
 
 ## Stats Analysis 
-<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=abellmanuell&theme=vue)](https://git.io/streak-stats)
-</p>
