@@ -5,7 +5,7 @@
 Aspiring to become the best Javascript engineer 🚀.
 Every day is a learning day.
 
-![Static Badge](https://img.shields.io/badge/learn-20%25-pink)
+![Static Badge](https://img.shields.io/badge/learn-20%25-blue)
 ![Static Badge](https://img.shields.io/badge/practice-20%25-green)
 
 ---
