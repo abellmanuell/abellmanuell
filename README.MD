@@ -10,6 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/practice-80%25-green)
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fabellmanuell)
 
+---
 - 🔭 I’m currently working on ... JavaScript & React. 
 - 🌱 I’m currently learning ... Open Source, and GitHub usage 😊
 - 👯 I’m looking to collaborate with other devs
