@@ -1,12 +1,12 @@
-### Hi there, 👋
+### Hi Fork, 👋
 
-#### I'm a growing developer with a primary focus on Javascript, React, and open-source projects. I love being part of communities that inspire and challenge one another.
+### I'm a growing developer with a primary focus on Javascript, React, and open-source projects. I love being part of communities that inspire and challenge one another.
 ---
 
 - 🔭 I’m currently working on ... JavaScript & React, 
 - 🌱 I’m currently learning ... Open Source, and GitHub usage 😊
 - 👯 I’m looking to collaborate with other devs
-- 💬 Ask me about anything in Javascript, I bet I will answer 😂
+- 💬 Ask me about anything in Javascript, and I bet I will answer 😂
 - ⚡ Fun fact: I love photography, soccer, and coding
 - 🎸 Would love: To know how to play keyboard
 
