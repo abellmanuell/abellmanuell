@@ -29,10 +29,10 @@ Every day is a learning day.
     <img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
   </a>
   <a href="mailto:mannydev02@gmail.com" target="blank">
-    <img src="https://img.icons8.com/?size=1x&id=qyRpAggnV0zH&format=png"/>
+    <img src="https://img.icons8.com/?size=1x&id=qyRpAggnV0zH&format=png" width="30"/>
   </a>
   <a href="https://wa.me/+2349025534431" target="blank">
-    <img src="https://img.icons8.com/?size=1x&id=16713&format=png"/>
+    <img src="https://img.icons8.com/?size=1x&id=16713&format=png" width="30"/>
   </a>
 </div>
 
