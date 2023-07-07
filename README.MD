@@ -12,7 +12,7 @@
 
 ---
 - 🔭 I’m currently working on ... JavaScript and React
-- 🌱 I’m currently learning ... Open Source, and GitHub 😊
+- 🌱 I’m currently learning ... Open Source, GitHub, and Gitflow 😊
 - 👯 I’m looking to collaborate with other devs
 - 💬 Ask me about anything in Javascript, and I bet I will answer 😂
 - ⚡ Fun fact: I love photography, soccer, and coding
