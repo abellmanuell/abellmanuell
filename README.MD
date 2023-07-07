@@ -11,8 +11,8 @@
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fabellmanuell)
 
 ---
-- 🔭 I’m currently working on ... JavaScript & React. 
-- 🌱 I’m currently learning ... Open Source, and GitHub usage 😊
+- 🔭 I’m currently working on ... JavaScript and React
+- 🌱 I’m currently learning ... Open Source, and GitHub 😊
 - 👯 I’m looking to collaborate with other devs
 - 💬 Ask me about anything in Javascript, and I bet I will answer 😂
 - ⚡ Fun fact: I love photography, soccer, and coding
