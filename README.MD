@@ -6,7 +6,7 @@
 >Every day is a learning day.
 
 
-![Static Badge](https://img.shields.io/badge/learn-20%25-blue)
+![Static Badge](https://img.shields.io/badge/Tutorial-20%25-blue)
 ![Static Badge](https://img.shields.io/badge/practice-80%25-green)
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fabellmanuell)
 
