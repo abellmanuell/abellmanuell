@@ -23,7 +23,7 @@
 ***
 ### Connect with me:
 
-<div align="center">  
+<div>  
   <a href="https://twitter.com/abellmanuell" target="_blank">
     <img src="https://img.icons8.com/color/35/000000/twitter--v2.png" title="Twitter"/>
   </a>
@@ -40,7 +40,7 @@
 
 ### Languages and Tools:
 
-<div align="center">
+<div>
   <img src="https://img.icons8.com/color/35/000000/html-5--v1.png" title="HTML"/> 
   <img src="https://img.icons8.com/color/35/000000/css3.png" title="CSS3"/> 
   <img src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="JavaScript"/>
@@ -54,7 +54,7 @@
 
 ### Libraries & Frameworks
 
-<div align="center">
+<div>
   <img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width="30" title="React.js"/>
   <img src="https://img.icons8.com/?size=1x&id=CIAZz2CYc6Kc&format=png" width="30"/>
   <img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" width="30" />
