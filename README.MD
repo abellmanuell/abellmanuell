@@ -4,9 +4,6 @@
 
 ### My strongest suits are on the front end. I have good commercial experience in this area, with a keen interest in expanding my skillset in a diverse range of technologies. I love being part of communities that inspire and challenge one another.
 
->Aspiring to become the best Javascript engineer 🚀.<br/>
->Every day is a learning day.
-
 
 ![Static Badge](https://img.shields.io/badge/learn-20%25-blue)
 ![Static Badge](https://img.shields.io/badge/practice-80%25-green)
