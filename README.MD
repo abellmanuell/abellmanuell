@@ -18,39 +18,6 @@
 - 🎹 Would love: To know how to play keyboard
 
 ***
-### Connect with me:
-
-<div>  
-  <a href="https://twitter.com/abellmanuell" target="_blank">
-    <img src="https://img.icons8.com/color/35/000000/twitter--v2.png" title="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/abellmanuell" target="blank">
-    <img src="https://img.icons8.com/color/35/000000/linkedin.png" title="LinkedIn"/>
-  </a>
-  <a href="mailto:mannydev02@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=1x&id=qyRpAggnV0zH&format=png" width="33" title="Gmail"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.icons8.com/?size=1x&id=19978&format=png" width="33" title="Slack"/>
-  </a>
-</div>
-
-### Languages and Tools:
-
-<div>
-  <img src="https://img.icons8.com/color/35/000000/html-5--v1.png" title="HTML"/> 
-  <img src="https://img.icons8.com/color/35/000000/css3.png" title="CSS3"/> 
-  <img src="https://img.icons8.com/color/35/000000/javascript--v1.png" title="JavaScript"/>
-  <a href="#" target="_blank">
-    <img src="https://img.icons8.com/?size=1x&id=hsPbhkOH4FMe&format=png" width="33"/>
-  </a>
-  <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/35/000000/git.png"/> 
-  <img src="https://img.icons8.com/color/35/000000/github.png"/>
-  <img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" width="30" title="React.js"/>
-  <img src="https://img.icons8.com/?size=1x&id=SDVmtZ6VBGXt&format=png" width="30" title="Express.js" />
-  <img src="https://img.icons8.com/?size=1x&id=CIAZz2CYc6Kc&format=png" width="30"/>
-</div>
 
 ### Stats Analysis 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abellmanuell&theme=vue)](https://git.io/streak-stats)
