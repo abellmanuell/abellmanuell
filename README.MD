@@ -1,8 +1,4 @@
-### Hey there, 👋
-
-### I am a Software Developer, I have experience building websites and applications with JavaScript, React, Redux, Express, NodeJs, Tailwind, and MongoDB. With these tools, I have built software that solves real-life problems. I am very capable of learning new skills quickly and am happy to work in any environment.
-
-### My strongest suits are on the front end. I have good commercial experience in this area, with a keen interest in expanding my skillset in a diverse range of technologies. I love being part of communities that inspire and challenge one another.
+### Hey, I'm Abel Emmanuel
 
 
 ![Static Badge](https://img.shields.io/badge/learn-20%25-blue)
