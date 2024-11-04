@@ -1,5 +1,6 @@
 ### Hey, I'm Abel Emmanuel
 
+I build and design solutions on the web.
 
 ![Static Badge](https://img.shields.io/badge/learn-20%25-blue)
 ![Static Badge](https://img.shields.io/badge/practice-80%25-green)
