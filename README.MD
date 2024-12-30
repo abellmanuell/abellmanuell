@@ -2,9 +2,12 @@
 
 My name is **Abel Emmanuel**, I'm a software engineer and open-source contributor. I am a Nigerian-based software developer who loves building beautiful products that are amazing to use. 
 
+
 I love SaaS products and I'm working toward creating a beautiful billionaires SaaS company.
 
+
 On the tools I use for creating products; I work with tools that can help me attain the desired result effectively and efficiently. 
+
 
 In my free time, I enjoy listening to music and reading.
 
