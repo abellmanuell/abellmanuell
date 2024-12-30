@@ -1,15 +1,18 @@
 ### Hey, thanks for stopping-by!
 
-My name is **Abel Emmanuel**, I'm a software engineer and open-source contributor. I am a Nigerian-based software developer who loves building beautiful products that are amazing to use. 
+My name is **Abel Emmanuel**, I'm a software engineer and open-source contributor. I am a Nigerian-based software developer who loves building beautiful products that are amazing to use. I love SaaS products and I'm working toward creating a beautiful billionaires SaaS company.
+
+On the tools I use for creating products; I work with tools that can help me attain the desired result effectively and efficiently. 
 
 In my free time, I enjoy listening to music and reading.
+
 
 ![Static Badge](https://img.shields.io/badge/learn-20%25-blue)
 ![Static Badge](https://img.shields.io/badge/practice-80%25-green)
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fabellmanuell)
 
 ---
-- 🔭 I’m currently working on ... JavaScript and React
+- 🔭 I’m currently working on ... JavaScript and React project.
 - 🌱 I’m currently learning ... Open Source, GitHub, and Gitflow 😊
 - 👯 I’m looking to collaborate with other devs
 - 💬 Ask me about anything in Javascript, and I bet I will answer 😂
