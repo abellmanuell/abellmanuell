@@ -1,6 +1,8 @@
 ### Hey, thanks for stopping-by!
 
-My name is **Abel Emmanuel**, I'm a software engineer and open-source contributor. I am a Nigerian-based software developer who loves building beautiful products that are amazing to use. In my free time, I enjoy listening to music and reading.
+My name is **Abel Emmanuel**, I'm a software engineer and open-source contributor. I am a Nigerian-based software developer who loves building beautiful products that are amazing to use. 
+
+In my free time, I enjoy listening to music and reading.
 
 ![Static Badge](https://img.shields.io/badge/learn-20%25-blue)
 ![Static Badge](https://img.shields.io/badge/practice-80%25-green)
